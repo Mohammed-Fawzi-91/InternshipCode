@@ -25,6 +25,3 @@ Upon opening the `index.html`, the script fetches the JSON data and displays it 
 - `styles.css`: CSS file for styling the web page.
 - data.json: JASON data
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
