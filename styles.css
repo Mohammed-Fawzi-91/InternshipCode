@@ -4,12 +4,14 @@ table {
     width: 100%;
     display: none;
 }
-.paragraph{
+
+.paragraph {
     display: none;
 
 }
 
-th, td {
+th,
+td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
@@ -21,5 +23,5 @@ th {
 
 /* Hide the order details  */
 .hide {
-    display:block;
+    display: block;
 }
