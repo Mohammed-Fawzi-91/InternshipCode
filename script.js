@@ -63,7 +63,7 @@ try {
     });
     orderDiv.appendChild(orderDetailsTable);
 
-    // Toggle order details display on click
+    // display on click
     orderInfo.addEventListener("click", () => {
         orderDetailsParagraph.classList.toggle("hide");
         orderDetailsTable.classList.toggle("hide");
@@ -82,4 +82,4 @@ try {
 
 displayJSONData();
       
-                
+            
